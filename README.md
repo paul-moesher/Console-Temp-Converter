@@ -1,2 +1,2 @@
-# Console-Temp-Converter
+# console-temp-converter
 Temp Converter made with C#
